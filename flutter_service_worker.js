@@ -26,8 +26,8 @@ const RESOURCES = {"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57
 "canvaskit/chromium/canvaskit.js": "ffb2bb6484d5689d91f393b60664d530",
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
 "canvaskit/canvaskit.js": "5caccb235fad20e9b72ea6da5a0094e6",
-"index.html": "80282685ef9c443702e69bff40bbf6e7",
-"/": "80282685ef9c443702e69bff40bbf6e7"};
+"index.html": "8d5a017cf323af5fe763ea40f72bc3b5",
+"/": "8d5a017cf323af5fe763ea40f72bc3b5"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
